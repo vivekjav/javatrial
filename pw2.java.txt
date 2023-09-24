@@ -1,0 +1,3 @@
+Class /// 
+{
+    }     Public Static Void main m2()
